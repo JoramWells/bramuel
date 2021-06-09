@@ -2,6 +2,7 @@ name: Recent projects
 on: 
   schedule:
     # runs every hour
+     - cron: '0 * * * *'
     update-readME with recent projects:
       runs-on: ubuntu-latest
       steps:

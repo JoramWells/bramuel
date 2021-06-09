@@ -54,6 +54,12 @@
 ---
 
 
+### Recent open source projects
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -71,7 +77,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+---
+  <img align="left" alt="bramuel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bramuel&show_icons=true&hide_border=true" />
 
 </details>
 
