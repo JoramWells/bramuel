@@ -1,7 +1,7 @@
 ### Hi there, I'm joram - aka [wells][website] 👋
 
-<!-- [![Website](https://joramwells.netlify.app/img/me.jpg)](https://joramwells.netlify.app/) -->
-[![Website]](https://joramwells.netlify.app/)
+[![Website](https://twitter.com/jay50429176/photo)](https://joramwells.netlify.app/)
+<!-- [![Website]](https://joramwells.netlify.app/) -->
 
 <!-- [![LinkedIn Follow](https://joramwells.netlify.app/img/me.jpg)]https://www.linkedin.com/in/joram-m-bramuel-2721a2196/) -->
 [![LinkedIn Follow]]https://www.linkedin.com/in/joram-m-bramuel-2721a2196/)
@@ -24,7 +24,7 @@
 [<img align="left" alt="joramWells.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="joramells | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -53,7 +53,7 @@
 
 ---
 
-
+<!-- 
 ### Recent open source projects
 <!-- BLOG-POST-LIST:START -->
 - [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
@@ -62,7 +62,7 @@
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
-
+ -->
 
 
 
@@ -89,13 +89,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: https://joramwells.netlify.app/
+[twitter]: https://twitter.com/jay50429176
+[youtube]: https://www.youtube.com/channel/UCcGbdiLYJl11iyIFaXzQbig
+[linkedin]: https://www.linkedin.com/in/joram-m-bramuel-2721a2196/
