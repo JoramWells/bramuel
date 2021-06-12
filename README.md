@@ -1,6 +1,6 @@
 ### Hi there, I'm joram - aka [wells][website] 👋
 
-[![Website](https://twitter.com/jay50429176/photo)(https://joramwells.netlify.app/)
+[![Website](https://twitter.com/jay50429176/photo)](https://joramwells.netlify.app/)
 <!-- [![Website]](https://joramwells.netlify.app/) -->
 
 <!-- [![LinkedIn Follow](https://joramwells.netlify.app/img/me.jpg)]https://www.linkedin.com/in/joram-m-bramuel-2721a2196/) -->
