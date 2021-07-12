@@ -50,7 +50,7 @@
 <br />
 <br />
 
-<details>
+<!-- <details> -->
 <!--   <summary>:zap: GitHub Stats</summary> -->
 
 <!-- --- -->
@@ -58,7 +58,7 @@
 
   <img align="left" alt="bramuel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bramuel&show_icons=true&hide_border=true" />
 
-</details>
+<!-- </details> -->
 
 [website]: https://joramwells.netlify.app/
 [twitter]: https://twitter.com/jay50429176
